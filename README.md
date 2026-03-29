@@ -24,3 +24,4 @@ python -m pytest
 - Retrieve existing user
 - Handle non-existing user
 - Validate response data structure
+API used: https://jsonplaceholder.typicode.com
